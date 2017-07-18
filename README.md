@@ -1,7 +1,7 @@
 # ErgoDoneCase
 An acrylic case for the ErgoDone PCBs
 ---
-I bought two [ErgoDone PCB's from KBDFans](https://kbdfans.myshopify.com/collections/pcb/products/ergodone-keyboard-pcb-1pcs-free-shipping?variant=37178300237) and modified [Litster's ErgoDox acrylic case](https://github.com/bishboria/ErgoDox). The PCBs are a little different to the standard ErgoDox design:
+I bought two [ErgoDone PCB's from KBDFans](https://kbdfans.myshopify.com/collections/pcb/products/ergodone-keyboard-pcb-1pcs-free-shipping?variant=37178300237) and modified [Litster's ErgoDox acrylic case](https://github.com/bishboria/ErgoDox) to accommodate the changed PCBs. The PCBs are a little different to the standard ErgoDox design:
 
 * Microcontroller is an Arduino Pro Micro instead of Teensy.
 * Microcontroller is on left handside instead of right handside.
