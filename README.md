@@ -11,6 +11,6 @@ I bought two [ErgoDone PCB's from KBDFans](https://kbdfans.myshopify.com/collect
 * LEDs are located on the lefthandside on the top right.
 
 Like Litster's, 3mm acrylic should be used for layers 1 and 5, and 4mm acrylic for the middle layers.
-I only had 3mm acrylic so I needed a few washers to raise the PCB.
+I only had 3mm acrylic so I added nuts between layers 2 and 3 to reaise the PCB. 20mm screws were perfect.
 
 If you want the design without a handrest, replace the bottom half of my designs with the bottom edge of the handrestless designs from Litster. 
