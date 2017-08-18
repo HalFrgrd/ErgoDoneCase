@@ -14,3 +14,5 @@ Like Litster's, 3mm acrylic should be used for layers 1 and 5, and 4mm acrylic f
 I only had 3mm acrylic so I added nuts between layers 2 and 3 to reaise the PCB. 20mm screws were perfect.
 
 If you want the design without a handrest, replace the bottom half of my designs with the bottom edge of the handrestless designs from Litster. 
+
+See this link about flashing: https://github.com/qmk/qmk_firmware/blob/master/keyboards/ergodox/readme.md
