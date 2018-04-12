@@ -16,3 +16,5 @@ I only had 3mm acrylic so I added nuts between layers 2 and 3 to reaise the PCB.
 If you want the design without a handrest, replace the bottom half of my designs with the bottom edge of the handrestless designs from Litster. 
 
 See this link about flashing: https://github.com/qmk/qmk_firmware/blob/master/keyboards/ergodox/readme.md
+
+Look at the assembled 2 Layer case album: https://imgur.com/a/fJbaJ
