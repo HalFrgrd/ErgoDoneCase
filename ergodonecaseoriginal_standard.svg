@@ -15,7 +15,7 @@
    version="1.1"
    id="svg6595"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="ergodonecaseoriginal.svg">
+   sodipodi:docname="ergodonecaseoriginal_standard.svg">
   <defs
      id="defs6589" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="3817.863"
-     inkscape:cy="1486.861"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="3800.8233"
+     inkscape:cy="869.17482"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10471,22 +10471,16 @@
        style="fill:none;stroke:#ff0000;stroke-width:0.30000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path1679-1"
        inkscape:connector-curvature="0" />
-    <rect
+    <path
+       transform="rotate(-155)"
        style="fill:none;stroke:#ff0000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect11124"
-       width="40"
-       height="40"
-       x="-518.08734"
-       y="270.76282"
-       transform="rotate(-155)" />
-    <rect
+       d="m -518.08734,270.76282 h 40 v 40 h -40 z"
+       id="rect11124" />
+    <path
+       transform="rotate(-115)"
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect11124-2"
-       width="40"
-       height="40"
-       x="-411.51773"
-       y="393.66113"
-       transform="rotate(-115)" />
+       d="m -411.51773,393.66113 h 40 v 40 h -40 z"
+       id="rect11124-2" />
   </g>
   <g
      inkscape:groupmode="layer"
